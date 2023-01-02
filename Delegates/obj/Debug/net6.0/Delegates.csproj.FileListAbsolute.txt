@@ -1,0 +1,15 @@
+C:\c# Projects\second year\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\c# Projects\second year\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\c# Projects\second year\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\c# Projects\second year\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\c# Projects\second year\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\c# Projects\second year\Delegates\obj\Debug\net6.0\ref\Delegates.dll
